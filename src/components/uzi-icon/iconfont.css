@@ -1,0 +1,29 @@
+
+@font-face {font-family: "uzi-icon";
+  src: url('./iconfont.eot'); /* IE9*/
+  src: url('./iconfont.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff;charset=utf-8;base64,d09GRgABAAAAAAm4AAsAAAAADXwAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABHU1VCAAABCAAAADMAAABCsP6z7U9TLzIAAAE8AAAARAAAAFY8dkgJY21hcAAAAYAAAAB2AAABzmFhnXlnbHlmAAAB+AAABZoAAAbgILvEBWhlYWQAAAeUAAAALwAAADYShf0laGhlYQAAB8QAAAAcAAAAJAfeA4hobXR4AAAH4AAAAA4AAAAcHAAAAGxvY2EAAAfwAAAAEAAAABAFFgaMbWF4cAAACAAAAAAfAAAAIAEWAKFuYW1lAAAIIAAAAU0AAAJtk9B8nXBvc3QAAAlwAAAASAAAAFoSl0BseJxjYGRgYOBikGPQYWB0cfMJYeBgYGGAAJAMY05meiJQDMoDyrGAaQ4gZoOIAgCKIwNPAHicY2BkYWCcwMDKwMHUyXSGgYGhH0IzvmYwYuRgYGBiYGVmwAoC0lxTGByeMTwTY27438AQw9zI0AAUZgTJAQDe0gv6eJztkdEJwzAMRJ8dxxRT8hUyRcfoEB2jXx351khPtiFLROYZ6RA23AErsJiXKZB+JKK+VlPXF1rXC2/PjQeZrKymXcd5grj6Wcl7Wz/RZ79R/FP1ULnr2e/PnGo4OAjHNbFraBIJqQ0iJe2DSE/HgPoHtVIZzwAAeJxdVEuMHMUZ7r9qunqm3z39msdOz3b3TPc8vDO78+heb7xjZwcbiNf2+oFsYxACi+WRECd2HpZsDiQgEMSOUIAQmxsSRBwSHywrRjnkECkcSM7kxIVb5EggxAV5zN+zggM96qq/639Uzfd99XOE4+59Qv9M25zOPcxxMPCIpZKgR0YTAhNIoz4wDVgXWDpO3TSOYsED13GFJPXHYdQn84U6hPaQCUxwMWVooeHUwXGTOLVZOnQId+r6+en0/PUb1y5MpxeuwVGeEVVdAMLzrXqbHm70tuK4xeuiI36RbgJ8ApAr5GBKGM/u/G154Hq1/GK15HuPE+rw9F/yQXJw+iBtTy98W/LG9QvTu29pDYtnsqKFdRq9RhrtA6Ff5xXRkllvc5UytSoygbc0czVpOcpukiObQaOeyy3m2fpf6TsPUMpRxOMOvUlf4ExulVtHRPxAJZZHhn4U92A8moBphT4CNDZGybA5RMBsI4ibGGXPwwYOGKlr0Jt3H5RKtiIVKxq5JRfyimLIzt0g6Nfk45vw5kcL3QXtH9dmb9itRdsJ2hb5S16ZHTl0CAy57HcaC7qsKQ23EpRmXxm1lfticuDwfnDbq/7sWYByd60erXfcAv317NJzz8FLHD50PrxN/s1p3CXuDY4zs2OOkoFjI6dhOoE5dfhjgkoFFqeuMyFpMjaSSHBVEIY20ohvkqJLiFUasx6Jo70wVMH1YOgMx+EYX+Q3npC9oAJKQ1juQxQj7wnmMN4jyDzTKIYk6QTlgQr6v1a1pO56V7Kq+meHL575oTNUBJqDfM5rDyvrm+rEqTtaToS3r3SpqXx99cqVoCRvrB7T1O6eIyvVqKzSfIE+CawgLMqQe/315q6C2JVKVsGQS3JF1aWSbi10NUN5WmWz/5Y8W6pWQMsLS4r584ZXGVhCXtROkrFklrVau13TyqZ0n2OSouIlnaT/m6OtJNQpMycqEZSi6NRg5WRpLIueOZ6Ofyaby87Vxm6pYikE5JKnR8u0uKTLArwwnvbFQktZDHSPl9iioTOtIFfu9+O2Vxd/YrqWtFA5uFIxz9Z2/cj3q3s6gSSLu+dc3fs9/ZKe5Sbc/dwWxzXNJEJdMctxfepTxC0UVLCcQTIezmkzcWR41wZJGsVDZmeuUZaCAPsD12JBlFHdHDg7Jn30D1SWZm5Blgvw8W9nV3+nuNWVVw3bDd3HHIdXxXeZUy0C9A70AMRLYn9/rxfOPo8ruO+vFKkUuC6K7z8GTq77IbwoGlJRgtl7ZLhklQGy1SLkeSW4+9Pysmp7IaY7xaKD8/5+4K9+XHRxK3c+hC5KM+s1n9J7dIM7yj2DNwsVF2YnTYeonh7E+IFiHPVIiB4V4ihggm2hVkFgNv57xMHCToSRIxQb5mCHwSm7gi4Cg1EBShFBqIMxAVS9kSIgFr1Hnjp0O4Ph9p4tgK0fgCgDCfcd7z3wi3LOyXsPrUFeKHX0RTi98UFBkgofnDhH2uGYHVnrNrw0PNxJnthsARw4Pbu4zXRhmyk6m4JkyFNBl+GXh7aJbEhZ5T1HiFrQ5d7xfSEc2xD5fG2tywsSERbsznjjNGQ55NyJabJk7j5IwF2Py+X25hOJJJ6dXd1mbBvrYeWnskPM/jRlsp5daR5x+yP9H/0x53J97jj3CPckotfLAJpjY7mZQAYZIsmIZitBnHlH85XB3GvNIzNPNPdNsD3vdIPBDpZZc4i/FRGvwo5B/9l8+dSZj86cfKUZx81XTqJ56uVmvBle3jpx68TW5RCf78z3IW50emsX13qdRgw8VXUeQj9qDZ4etCI/BF5X6d5wFASjcPYh4Ig22ZfVi7+/y+zO1uWg0Qh2aj8fhGHwPJpdslTzzVLJ9GtLRNBFIpBWxdNtW/cqLfwQ9b9XsvJhZWfivgEh3iDeAAB4nGNgZGBgAOKd+ls2xPPbfGXgZmEAgeubY3oQ9P9+FgbmRiCXg4EJJAoAQQcLAQB4nGNgZGBgbvjfwBDDwgACQJKRARWwAwBHDQJweJxjYWBgYMGBAQHcAB0AAAAAAAAAiADmAbwCNgLSA3B4nGNgZGBgYGeYysDKAAJMQMwFhAwM/8F8BgAYBwG4AHicZY/NTsJAFIVP+VNLYohEdyazMC5Uyk9csXFBAnsW7KFMoaQ/ZDqQwN7n8RF8Ah9B38B38FBuXUCbmX7nzLl3bgHc4AcOjs8t15EdXFIduYQL3AuX6T8IV8gvwlXU8Spco/8m7OIZI+E6mjDs4FSuqJ7wLuyggQ/hEq7xKVym/yVcIX8LV3GHX+EaGk5Z2MXEaQrX8eiE7sDoqdVzNdup0E+TIE2su9mHrYMY68UmmppCFt+JNlmYJqrrdQprpBNtij7ZdtGzNlCBSWM1ZEMdRalam3SlfestrV332+1AfM9PY4414G9rTGG5z6Eww457CB8pEgT5bpnbYE+39X8yZn5BN2KtOTs91ROmDTLqg1LowkPnLDViKsmTp/Nk2PK2Hl3LmRSXYUVMGsqEmpNEZIV1frai49P3sMyr1uijzTc4yXv53fEfbyRtOAAAAHicbcFLCoAwDAXAvH5s8JahFVPRBrRF8PQu3DpDjj4z/Utw8AiImJDAxFmtrY/W2Melw3exkOXsXOxuu0mJy2FbJXoBPq8OTA==') format('woff'),
+  url('./iconfont.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('./iconfont.svg#uzi-icon') format('svg'); /* iOS 4.1- */
+}
+
+.uzi-icon {
+  font-family:"uzi-icon" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.uzi-icon-chongzhi:before { content: "\e600"; }
+
+.uzi-icon-tushu:before { content: "\e601"; }
+
+.uzi-icon-tao:before { content: "\e602"; }
+
+.uzi-icon-cart:before { content: "\e60a"; }
+
+.uzi-icon-download:before { content: "\e614"; }
+
+.uzi-icon-emoji:before { content: "\e616"; }
+
